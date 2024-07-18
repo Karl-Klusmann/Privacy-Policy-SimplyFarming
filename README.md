@@ -8,10 +8,13 @@ Welcome to SimplyFarming. We respect your privacy and are committed to protectin
    a. Personal Data
    We collect personal data that you voluntarily provide to us when registering to use our app, including but not limited to your name, email address, phone number, contact details, and financial information related to your farming activities.
 
-   b. Usage Data
+   b. Image Data
+   We collect image data that you upload to our app, including but not limited to photos of your slips that acts as proof of payment for the diesel purchase entry made that you choose to provide.
+
+   c. Usage Data
    We automatically collect usage data when you access and use the app, such as the dates and times of your requests, the features or pages viewed, app crashes and other system activity, and browser type.
 
-   c. Financial Data
+   d. Financial Data
    We collect financial data related to your farming activities, including transaction records, expenses, income, and other financial details you provide.
 
 2. How We Use Your Information
@@ -22,6 +25,7 @@ Welcome to SimplyFarming. We respect your privacy and are committed to protectin
    - Communicate with you about news, updates, and other information related to the app.
    - Monitor and analyze trends, usage, and activities in connection with our app.
    - Manage your financial records and transactions related to farming activities.
+   - Process and display the images you upload as proof of payment for diesel purchases.
 
 3. Sharing Your Information
    We may share your information with:
