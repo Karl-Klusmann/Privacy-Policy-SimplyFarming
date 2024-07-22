@@ -40,6 +40,6 @@ Welcome to SimplyFarming. We respect your privacy and are committed to protectin
    We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page.
 
 6. Contact Us
-   If you have any questions about this privacy policy, please contact us at kjklusmann@gmail.com.
+   If you have any questions about this privacy policy, please contact us at paulzietsman15@gmail.com.
 
 By using our app, you agree to the collection and use of information in accordance with this privacy policy.
